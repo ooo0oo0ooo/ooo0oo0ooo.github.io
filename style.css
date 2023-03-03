@@ -317,10 +317,10 @@ svg.icon {
 .mylist li.col-3 span {
     width: 100%;
     display: block;
-    height: 5vw;
-    line-height: 4vh;
+    height: 20px;
+    line-height: 20px;
     text-align: center;
-    font-size: 5vw;
+    font-size: 18px;
 }
 
 .mylist li a {
