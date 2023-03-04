@@ -1,10 +1,3 @@
-/*
-作者:D.Young
-主页：https://blog.5iux.cn/
-github：https://github.com/5iux/5iux.github.io
-日期：2020-09-24
-版权所有，请勿删除
-*/
 body {
     font-size: 14px;
     background: #f4f8fb;
@@ -330,9 +323,6 @@ svg.icon {
 .mylist li span.fu {
     color: #888;
     display: block;
-    width: 200%;
-    margin-left: -50%;
-    height: 100%;
     line-height: 15px;
     text-align: center;
     font-size: 15px;
