@@ -333,9 +333,9 @@ svg.icon {
     width: 200%;
     margin-left: -50%;
     height: 100%;
-    line-height: 2vh;
+    line-height: 15px;
     text-align: center;
-    font-size: 3vw;
+    font-size: 15px;
 }
 .mylist li.title {
     width: 100%;
